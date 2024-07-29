@@ -1,1 +1,1 @@
-GeeksMan 文档教程网站 基于 VuePress 构建、Vercel 部署
+后续可以作为文档教程网站 基于 VuePress 构建、Vercel 部署。
